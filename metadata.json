@@ -1,0 +1,10 @@
+{
+  "name": "Hey Assistant AI",
+  "description": "Voice-controlled personal assistant for Windows 11 powered by Google Gemini Live API, supporting English, Filipino/Tagalog, and Cebuano/Bisaya.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
